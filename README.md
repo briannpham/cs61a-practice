@@ -35,4 +35,4 @@ This repo contains all Python materials from UC Berkeley's CS61A
 - [ ] Cats
 - [ ] Maps
 - [ ] Ants
-- [ ] Scheme# cs61a-practice
+- [ ] Scheme
