@@ -4,7 +4,7 @@ This repo contains all Python materials from UC Berkeley's CS61A
 
 ### Lab
 - [x] Lab 01: Functions, Control
-- [ ] Lab 02: Higher-Order Functions, Lambda Expressions
+- [x] Lab 02: Higher-Order Functions, Lambda Expressions
 - [ ] Lab 03: Review
 - [ ] Lab 04: Recursion, Tree Recursion, Python Lists
 - [ ] Lab 05: Trees, Data Abstraction, Python Lists
@@ -20,7 +20,7 @@ This repo contains all Python materials from UC Berkeley's CS61A
 
 ### Homework
 - [x] HW 01: Functions, Control
-- [ ] HW 02: Higher-Order Functions
+- [x] HW 02: Higher-Order Functions
 - [ ] HW 03: Recursion, Tree Recursion
 - [ ] HW 04: Sequences, Trees
 - [ ] HW 05: Generators
