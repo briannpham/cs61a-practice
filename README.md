@@ -5,7 +5,7 @@ This repo contains all Python materials from UC Berkeley's CS61A
 ### Lab
 - [x] Lab 01: Functions, Control
 - [x] Lab 02: Higher-Order Functions, Lambda Expressions
-- [ ] Lab 03: Review
+- [x] Lab 03: Review
 - [ ] Lab 04: Recursion, Tree Recursion, Python Lists
 - [ ] Lab 05: Trees, Data Abstraction, Python Lists
 - [ ] Lab 06: Iterators, Mutability
