@@ -21,7 +21,7 @@ This repo contains all Python materials from UC Berkeley's CS61A
 ### Homework
 - [x] HW 01: Functions, Control
 - [x] HW 02: Higher-Order Functions
-- [ ] HW 03: Recursion, Tree Recursion
+- [x] HW 03: Recursion, Tree Recursion
 - [ ] HW 04: Sequences, Trees
 - [ ] HW 05: Generators
 - [ ] HW 06: Object-Oriented Programming, Linked Lists
